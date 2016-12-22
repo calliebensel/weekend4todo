@@ -1,0 +1,18 @@
+html {
+  text-align: center;
+}
+body {
+  border: 1px solid black;
+  display: inline-block;text-align: left;
+  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Slabo 27px', serif;
+  text-align: center;
+}
+#appendToDom {
+  padding: 10px 10px;
+  text-align: left;
+
+}
+#addButton {
+  padding-right: 10px;
+}
